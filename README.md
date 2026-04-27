@@ -82,6 +82,14 @@ This repo has the prompts and examples. For the complete 8,000+ word guide with 
 
 ---
 
-**Ship while you sleep.**
+MIT.
+
+do whatever you want with this.
 
 Built by [@BChopLXXXII](https://x.com/BChopLXXXII)
+
+built for vibe coders who just want their AI to feel less... corporate.
+
+**Ship while you sleep.** 🚀
+
+if this helped, ⭐ the repo — it helps others find it.
